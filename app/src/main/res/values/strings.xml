@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="user_id_text">User Id</string>
+    <string name="id_text">Id</string>
+    <string name="title_text">Title</string>
+    <string name="done_text">Done</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="check_box_text">Complete</string>
+
+</resources>
